@@ -1,4 +1,4 @@
-#  Heuristic Search and Games
+#  Zacate - Probability
 
 This code was written for the course Elements of Artificial Intelligence (CSCI-B 551) at Indiana University handled by Professor David Crandall. Skeleton code was provided by the Professor to get us started with the assignment.
 
